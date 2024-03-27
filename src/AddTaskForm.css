@@ -1,0 +1,36 @@
+/* AddTaskForm.css */
+
+#form {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #1b1616;
+    border-radius: 5px;
+  }
+  
+  #form input,
+  #form textarea {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #876e6e;
+    border-radius: 3px;
+    color: rgb(59, 38, 23);
+  }
+  
+  #form textarea {
+    height: 100px;
+  }
+  
+  #form button {
+    background-color: #4caf50;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+  }
+  
+  #form button:hover {
+    background-color: #45a049;
+  }
+  

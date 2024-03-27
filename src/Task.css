@@ -1,0 +1,22 @@
+/* Task.css */
+.Task {
+  border: 1px solid #ccc;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+.Task h3 {
+  margin-bottom: 5px;
+}
+
+.Task p {
+  color: #666;
+}
+
+.Task button {
+  background-color: #ff3333;
+  color: white;
+  border: none;
+  padding: 5px 10px;
+  cursor: pointer;
+}
